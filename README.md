@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Jackaria72
-- 👀 I’m interested in learning new things
+Hello, 
+I’m Jackaria
+
+I'm a Junior Developer who enjoys learning new things!
+
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me: Send a Raven
 - 😄 Pronouns: He/Him/They/Them
-- ⚡ Fun fact: ...
+
 
 ***
 
